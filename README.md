@@ -1,3 +1,3 @@
-# gh-workflows
+# Workflows
 
-A collection of workflows we used on GitHub
+A collection of workflows we use on our GitHub repositories.
